@@ -1,8 +1,5 @@
-# hide_appbar
 
-A new Flutter project.
-
-## Getting Started
+## Hide AppBar & Animation FAB
 
 This project is a starting point for a Flutter application.
 
